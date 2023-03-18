@@ -2,6 +2,8 @@
 
 A minimalistic streamlit webapp to generate SQL queries based on user's inputs using OpenAI APIs.
 
+![Animation](https://user-images.githubusercontent.com/29462447/226115265-22674db2-9db0-48a4-9977-91c7070050a1.gif)
+
 ## Installation:
 * Simply run the command ***pip install -r requirements.txt*** to install the dependencies.
 
