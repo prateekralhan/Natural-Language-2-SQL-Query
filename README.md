@@ -2,6 +2,8 @@
 
 A minimalistic streamlit webapp to generate SQL queries based on user's inputs using OpenAI APIs.
 
+## Live App can be found [here.](https://natural-language-2-sql-queries.onrender.com/)
+
 ![Animation](https://user-images.githubusercontent.com/29462447/226115265-22674db2-9db0-48a4-9977-91c7070050a1.gif)
 
 ## Installation:
